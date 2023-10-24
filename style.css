@@ -2,7 +2,7 @@ img {
   height: 400px;
   background-color: turquoise;
 }
-h2.headline {
+.headline {
   color: aqua;
   text-align: center;
   background-color: black;
@@ -13,17 +13,17 @@ h2.headline {
 a {
   color: blue;
 }
-p.intro {
+.intro {
   background-color: yellowgreen;
 }
-p.main-text {
+.main-text {
   color: cornflowerblue;
   background-color: wheat;
 }
-p.text-more {
+.text-more {
   color: crimson;
 }
-p.idea {
+.idea {
   color: chartreuse;
   background-color: saddlebrown;
 }
